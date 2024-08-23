@@ -1,7 +1,3 @@
-Aquí tienes un README ajustado para la librería **OnionCrafter.Util.Object.Auditable**:
-
----
-
 # OnionCrafter.Util.Object.Auditable
 
 ![Versión de la librería](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-brightgreen) [![NuGet](https://img.shields.io/nuget/v/OnionCrafter.Util.Object.Auditable.svg)](https://www.nuget.org/packages/OnionCrafter.Util.Object.Auditable/)
